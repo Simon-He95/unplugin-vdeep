@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/Simon-He95/vite-plugin-vdeep#readme",
+  "homepage": "https://github.com/Simon-He95/unplugin-vdeep#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Simon-He95/vite-plugin-vdeep.git"
+    "url": "git+https://github.com/Simon-He95/unplugin-vdeep.git"
   },
-  "bugs": "https://github.com/Simon-He95/vite-plugin-vdeep/issues",
+  "bugs": "https://github.com/Simon-He95/unplugin-vdeep/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
